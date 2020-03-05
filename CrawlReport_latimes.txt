@@ -1,0 +1,40 @@
+
+ Fetch Statistics 
+ ================
+# fetches attempted: 19998
+# fetches succeeded: 19487
+# fetches failed: 511
+
+ Outgoing URLs: 
+ ================
+Total URLs extracted: 1116055
+# unique URLs extracted: 221538
+# unique URLs within nytimes: 84950
+# unique URLs outside nytimes:136588
+
+ Status Codes: 
+ ================
+200 OK: 19487
+301 Moved Permanently: 372
+302 Moved Temporarily: 12
+400 Bad Request: 6
+401 Unauthorized: 1
+403 Forbidden: 11
+404 Not Found: 68
+410 Gone: 19
+500 Internal Server Error: 7
+503 Service Unavailable: 15
+
+ File Sizes: 
+ ================
+< 1KB: 1
+1KB ~ <10KB: 30
+10KB ~ <100KB: 2293
+100KB ~ <1MB: 16570
+>= 1MB: 587
+
+ Content Types: 
+ ================
+text/html: 19454
+image/png: 23
+image/jpeg: 4
